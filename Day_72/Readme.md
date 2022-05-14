@@ -8,7 +8,7 @@ StackOverflow will help us answer this burning question. Each post on Stack Over
 
 To figure out which language is the most popular, all we need to do is count the number of posts on Stack Overflow that are tagged with each language. The language with the most posts wins!
 
-![image](Captura de Pantalla 2022-05-14 a las 21.55.19.png)
+![image](https://github.com/RaquelDiazMar/100DaysOfCode/tree/main/Day_72/Captura de Pantalla 2022-05-14 a las 21.55.19.png)
 
 Today you will learn:
 
