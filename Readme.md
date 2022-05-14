@@ -2,4 +2,6 @@
 
 Day 1 or 
 
-Day 71 or how to perform some Data Exploration with Pandas: College Major vs. Your Salary
+Day 71 or how to perform some __Data Exploration with Pandas__: College Major vs. Your Salary
+
+Day 72 or how to perform __Data visualization with Matplotlib__: Programming Languages
