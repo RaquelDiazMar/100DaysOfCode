@@ -20,3 +20,20 @@ Today you will learn:
 
 - How to style and customise a line chart to your liking
 
+The notebook goes about:
+
+ - useage of `.groupby()` to explore the number of posts and entries per programming language
+
+ - converted strings to Datetime objects with `to_datetime()` for easier plotting
+
+ - reshaping our DataFrame by converting categories to columns using `.pivot()`
+
+ - usage of `.count()` and `isna().values.any()` to look for __NaN__ values in our DataFrame, which we then replaced using `.fillna()`
+
+ - creation of (multiple) line charts using `.plot()` with a for-loop
+
+ - styling our charts by changing the size, the labels, and the upper and lower bounds of our axis.
+
+ - adding a legend to tell apart which line is which by colour
+
+ - smoothed out our time-series observations with `.rolling().mean()` and plotted them to better identify trends over time.
