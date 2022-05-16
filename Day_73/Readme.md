@@ -16,15 +16,15 @@ Today we're going to be diving deep into a dataset all about LEGO, which will he
 
 What you'll learn today
 
- - How to combine a Notebook with HTML Markup.
+ - How to combine a __Notebook__ with __HTML Markup__.
 
- - Apply Python List slicing techniques to Pandas DataFrames.
+ - Apply __Python List__ slicing techniques to __Pandas DataFrames__.
 
  - How to aggregate data using the `.agg()` function.
 
- - How to create scatter plots, bar charts, and line charts with two axes in __Matplotlib__.
+ - How to create __scatter plots, bar charts__, and __line charts__ with two axes in __Matplotlib__.
 
- - Understand database schemas that are organised by primary and foreign keys.
+ - Understand __database schemas__ that are organised by primary and foreign keys.
 
- - How to merge DataFrames that share a common key
+ - How to __merge DataFrames__ that share a common key
 
