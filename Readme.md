@@ -5,3 +5,6 @@ Day 1 or how to work with __Variables in Python to Manage Data__
 Day 71 or how to perform some __Data Exploration with Pandas__: College Major vs. Your Salary
 
 Day 72 or how to perform __Data visualization with Matplotlib__: Programming Languages
+
+Day 73 or how to __Aggregate & Merge Data with Pandas__: Analyse the LEGO Dataset
+
