@@ -1,5 +1,13 @@
 ## Working with Variables in Python to Manage Data - Beginner
 
+Some useful links from this first lesson:
+
+ - [Thonny](https://thonny.org/): Python IDE for beginners
+ - [PythonTutor](https://pythontutor.com/): Visualize Code Execution. Learn Python, Java, C, C++, Javascript and Ruby. 
+ - [Replit](https://replit.com): The collaborative browser based IDE
+ - [Coding Rooms](https://www.codingrooms.com): learning platform
+
+
 Before gettting any deeper, let's try to identify the output of the following spnippets:
 
 1)
