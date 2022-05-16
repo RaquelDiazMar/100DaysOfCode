@@ -8,6 +8,13 @@ Some useful links from this first lesson:
  - [Coding Rooms](https://www.codingrooms.com): learning platform
 
 
+Learning points for today:
+ - `print()` function
+ - `input()` function
+ - `len()` function
+ - variables in Python
+
+
 Before gettting any deeper, let's try to identify the output of the following spnippets:
 
 1)
