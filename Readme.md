@@ -12,3 +12,5 @@ Day 72 or how to perform __Data visualization with Matplotlib__: Programming Lan
 
 Day 73 or how to __Aggregate & Merge Data with Pandas__: Analyse the LEGO Dataset
 
+Day 76 or how to make __Computation with NumPy and N-Dimensional Arrays__
+
